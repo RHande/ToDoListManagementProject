@@ -1,0 +1,15 @@
+/Users/hande/RiderProjects/ToDoListManagement/ToDoList.Models/bin/Debug/net8.0/ToDoList.Models.deps.json
+/Users/hande/RiderProjects/ToDoListManagement/ToDoList.Models/bin/Debug/net8.0/ToDoList.Models.dll
+/Users/hande/RiderProjects/ToDoListManagement/ToDoList.Models/bin/Debug/net8.0/ToDoList.Models.pdb
+/Users/hande/RiderProjects/ToDoListManagement/ToDoList.Models/bin/Debug/net8.0/Core.dll
+/Users/hande/RiderProjects/ToDoListManagement/ToDoList.Models/bin/Debug/net8.0/Core.pdb
+/Users/hande/RiderProjects/ToDoListManagement/ToDoList.Models/obj/Debug/net8.0/ToDoList.Models.csproj.AssemblyReference.cache
+/Users/hande/RiderProjects/ToDoListManagement/ToDoList.Models/obj/Debug/net8.0/ToDoList.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hande/RiderProjects/ToDoListManagement/ToDoList.Models/obj/Debug/net8.0/ToDoList.Models.AssemblyInfoInputs.cache
+/Users/hande/RiderProjects/ToDoListManagement/ToDoList.Models/obj/Debug/net8.0/ToDoList.Models.AssemblyInfo.cs
+/Users/hande/RiderProjects/ToDoListManagement/ToDoList.Models/obj/Debug/net8.0/ToDoList.Models.csproj.CoreCompileInputs.cache
+/Users/hande/RiderProjects/ToDoListManagement/ToDoList.Models/obj/Debug/net8.0/ToDoList.BC4726A0.Up2Date
+/Users/hande/RiderProjects/ToDoListManagement/ToDoList.Models/obj/Debug/net8.0/ToDoList.Models.dll
+/Users/hande/RiderProjects/ToDoListManagement/ToDoList.Models/obj/Debug/net8.0/refint/ToDoList.Models.dll
+/Users/hande/RiderProjects/ToDoListManagement/ToDoList.Models/obj/Debug/net8.0/ToDoList.Models.pdb
+/Users/hande/RiderProjects/ToDoListManagement/ToDoList.Models/obj/Debug/net8.0/ref/ToDoList.Models.dll
