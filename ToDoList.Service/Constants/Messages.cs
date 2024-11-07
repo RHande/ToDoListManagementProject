@@ -7,6 +7,8 @@ public static class Messages
     public const string CategoryUpdatedMessage = "Category updated successfully";
     public const string CategoryDeletedMessage = "Category deleted successfully";
     public const string CategoryFetchedMessage = "Category fetched successfully";
+    public static string ToDoNotFoundMessage = "ToDo not found";
+
     public static string CategoryIsNotPresentMessage(int id) => $"Category with id {id} is not present";
     
     //ToDo Messages
@@ -16,6 +18,7 @@ public static class Messages
     public const string ToDoFetchedMessage = "ToDo fetched successfully";
     public const string ToDoCompletedMessage = "ToDo completed successfully";
     public static string ToDoIsNotPresentMessage(Guid id) => $"ToDo with id {id} is not present";
+    public const string ToDoTitleIsUniqueMessage = "ToDo title is must be unique";
     
     
     

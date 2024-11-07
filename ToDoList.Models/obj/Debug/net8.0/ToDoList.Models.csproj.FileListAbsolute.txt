@@ -13,3 +13,4 @@
 /Users/hande/RiderProjects/ToDoListManagement/ToDoList.Models/obj/Debug/net8.0/refint/ToDoList.Models.dll
 /Users/hande/RiderProjects/ToDoListManagement/ToDoList.Models/obj/Debug/net8.0/ToDoList.Models.pdb
 /Users/hande/RiderProjects/ToDoListManagement/ToDoList.Models/obj/Debug/net8.0/ref/ToDoList.Models.dll
+/Users/hande/RiderProjects/ToDoListManagement/ToDoList.Models/obj/Debug/net8.0/ToDoList.Models.sourcelink.json

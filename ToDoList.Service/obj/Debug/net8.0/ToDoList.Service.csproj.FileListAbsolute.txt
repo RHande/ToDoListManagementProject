@@ -17,3 +17,4 @@
 /Users/hande/RiderProjects/ToDoListManagement/ToDoList.Service/bin/Debug/net8.0/ToDoList.Models.pdb
 /Users/hande/RiderProjects/ToDoListManagement/ToDoList.Service/obj/Debug/net8.0/ToDoList.Service.csproj.AssemblyReference.cache
 /Users/hande/RiderProjects/ToDoListManagement/ToDoList.Service/obj/Debug/net8.0/ToDoList.0AE03B1F.Up2Date
+/Users/hande/RiderProjects/ToDoListManagement/ToDoList.Service/obj/Debug/net8.0/ToDoList.Service.sourcelink.json

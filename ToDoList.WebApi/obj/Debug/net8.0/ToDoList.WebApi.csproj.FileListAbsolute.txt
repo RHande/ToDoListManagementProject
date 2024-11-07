@@ -155,3 +155,4 @@
 /Users/hande/RiderProjects/ToDoListManagement/ToDoList.WebApi/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
 /Users/hande/RiderProjects/ToDoListManagement/ToDoList.WebApi/bin/Debug/net8.0/ToDoList.Service.dll
 /Users/hande/RiderProjects/ToDoListManagement/ToDoList.WebApi/bin/Debug/net8.0/ToDoList.Service.pdb
+/Users/hande/RiderProjects/ToDoListManagement/ToDoList.WebApi/obj/Debug/net8.0/ToDoList.WebApi.sourcelink.json

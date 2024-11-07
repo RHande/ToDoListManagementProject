@@ -20,6 +20,7 @@ builder.Services.Configure<CustomTokenOptions>(builder.Configuration.GetSection(
 builder.Services.AddRepositoryDependencies(builder.Configuration);
 builder.Services.AddServiceDependencies();
 builder.Services.AddAutoMapper(typeof(CategoryProfile));
+builder.Services.AddAutoMapper(typeof(ToDoProfile));
 
 
     
@@ -72,8 +73,8 @@ if (app.Environment.IsDevelopment())
 
 app.UseExceptionHandler(_ => { });
 app.UseHttpsRedirection();
-//app.UseAuthentication();
-//app.UseAuthorization();
+app.UseAuthentication();
+app.UseAuthorization();
 
 app.MapControllers();
 

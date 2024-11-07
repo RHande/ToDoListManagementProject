@@ -15,3 +15,4 @@
 /Users/hande/RiderProjects/ToDoListManagement/ToDoList.Repository/obj/Debug/net8.0/refint/ToDoList.Repository.dll
 /Users/hande/RiderProjects/ToDoListManagement/ToDoList.Repository/obj/Debug/net8.0/ToDoList.Repository.pdb
 /Users/hande/RiderProjects/ToDoListManagement/ToDoList.Repository/obj/Debug/net8.0/ref/ToDoList.Repository.dll
+/Users/hande/RiderProjects/ToDoListManagement/ToDoList.Repository/obj/Debug/net8.0/ToDoList.Repository.sourcelink.json

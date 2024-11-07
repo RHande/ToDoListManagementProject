@@ -27,8 +27,4 @@
       <ProjectReference Include="..\ToDoList.Service\ToDoList.Service.csproj" />
     </ItemGroup>
 
-    <ItemGroup>
-      <Folder Include="Middlewares\" />
-    </ItemGroup>
-
 </Project>
